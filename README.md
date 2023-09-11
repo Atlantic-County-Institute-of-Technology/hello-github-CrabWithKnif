@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: Riley Kowerski
+
+Hello! This is a test assignment for Github Classroom
 
 ## 🤓 Course overview and learning outcomes 
 
